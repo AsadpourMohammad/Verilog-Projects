@@ -6,7 +6,7 @@ This repository contains different Verilog modules and their test benches for le
 
 ## Modules
 
-- ADDER:
+- Adder:
   - [Half Adder](./ADDER/HA)
   - [Full Adder](./ADDER/FA)
 
