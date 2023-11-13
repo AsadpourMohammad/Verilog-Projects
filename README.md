@@ -4,21 +4,15 @@
 
 This repository contains different Verilog modules and their test benches for learning purposes.
 
-## Available Modules
+## Modules
 
-#### [Half Adder](./ADDER/HA)
-#### [Full Adder](./ADDER/FA)
-
-
-## Requirements
-
-* Icarus Verilog
-* GTKWave
-
+- ADDER:
+  - [Half Adder](./ADDER/HA)
+  - [Full Adder](./ADDER/FA)
 
 ## Guide
 
-All modules and their test benches can be compiled and run with the Makefile.
+All modules and their test benches can be compiled and run with the Makefile
 
 ```bash
     make MODULE=module_name
