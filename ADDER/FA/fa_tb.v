@@ -7,7 +7,7 @@ module full_adder_tb;
     wire sum;
     wire carry;
 
-    full_adder uut (a, b, cin, sum, carry);
+    full_adder fa (a, b, cin, sum, carry);
 
     initial
     begin
