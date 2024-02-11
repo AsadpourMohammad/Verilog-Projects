@@ -59,6 +59,6 @@ Put the module and its test bench in the same directory and run the Makefile wit
 - Finite State Machine:
   - [FSM](./FSM)
 - Seven Segment:
-  - [SSD](./SEVEN-SEGMENT)
+  - [Seven Segment](./SEVEN-SEGMENT)
 - Pipeline Project:
   - [Pipeline](./PIPELINE-PROJECT)
