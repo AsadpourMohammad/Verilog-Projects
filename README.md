@@ -43,7 +43,7 @@ The Makefile will run the following commands:
     gtkwave module_name.vcd
 ```
 
-Put the module and its test bench in the same directory and run the Makefile with the module name to see the results.
+Put the module that you want to test and its test bench in the same directory and run the Makefile with the module name to see the results.
 
 ## Modules
 
